@@ -8,8 +8,7 @@ Esse Sistema faz parte do Bootcamp GoStack da RocketSeat, é uma aplicação Web
 </p>
 
 <p align="center"> 
- <img 
-    src="Captura de Tela 2020-10-25 às 01.21.00.png"/>
+ <img src="Captura de Tela 2020-10-25 às 01.21.00.png"/>
 </p>
 
 ----------------------------
