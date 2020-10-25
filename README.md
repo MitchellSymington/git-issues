@@ -6,7 +6,7 @@
 `$ git clone https://github.com/MitchellSymington/git-issues.git`
 
 :two: Ir para o diretório </br>
-`$ cd gobarber-web`
+`$ cd git-issues`
 
 :three: Instalar dependencias</br>
 `$ yarn install`
