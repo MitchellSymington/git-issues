@@ -13,6 +13,9 @@ Esse Sistema faz parte do Bootcamp GoStack da RocketSeat, é uma aplicação Web
 
 ----------------------------
 
+## :rocket: Tecnologias
+- :blue_book: JavaScript
+
 # :notebook_with_decorative_cover: Instruções
 
 ### :fire: Rodar os comandos abaixo:
